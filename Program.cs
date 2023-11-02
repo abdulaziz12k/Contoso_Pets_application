@@ -98,7 +98,7 @@ do
     switch (menuSelection)
     {
         case "1":
-            // List all of our current pet information
+            // List all current pet information
             for (int i = 0; i < maxPets; i++)
             {
                 if (ourAnimals[i, 0] != "ID #: ")
